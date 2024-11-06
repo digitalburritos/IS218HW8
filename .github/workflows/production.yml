@@ -47,5 +47,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: digitalburritos/devops_demo:latest  # Change this to your DockerHub username and image name
+          tags: digitalburritos/apache-test:latest  # Change this to your DockerHub username and image name
 
