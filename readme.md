@@ -2,4 +2,4 @@
 
 1.Docker image 
 
-![DockerHub screenshot](dockerhub_snap.png)
+![DockerHub screenshot](dockerhub_snap.PNG)
